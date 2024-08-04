@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,steampy.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
+# 发起IP段匹配
+SRC-IP-CIDR,192.168.100.243/32
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
