@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,doging.cn
 DOMAIN-SUFFIX,steampy.com
 
 # 域名匹配
-DOMAIN,app.plex.tv
+DOMAIN,v4.plex.tv
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
