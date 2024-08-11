@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,steampy.com
 
 # 域名匹配
 DOMAIN,v4.plex.tv
+DOMAIN,dl-a10b-0876.mypikpak.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
