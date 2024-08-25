@@ -17,6 +17,7 @@ DOMAIN,v4.plex.tv
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,getquicker
 
 # 发起IP段匹配
 SRC-IP-CIDR,192.168.100.243/32
