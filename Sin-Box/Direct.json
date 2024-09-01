@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "v4.plex.tv",
+        "anime-no-index.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".dmhy.best",
+        ".anime-no-index.com"
+      ]
+    }
+  ]
+}
