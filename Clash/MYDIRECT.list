@@ -19,6 +19,9 @@ DOMAIN-KEYWORD,hunan-bank
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
+#Sony
+DOMAIN-KEYWORD,sonygst
+
 # Steam
 DOMAIN,csgo.wmsj.cn
 DOMAIN,dl.steam.clngaa.com
