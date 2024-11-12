@@ -20,8 +20,8 @@ DOMAIN-KEYWORD,hunan-bank
 IP-CIDR,219.146.1.66/32,no-resolve
 
 # Playstation
-- DOMAIN-SUFFIX,dl.playstation.net
-- DOMAIN-SUFFIX,image.api.playstation.com
+DOMAIN-SUFFIX,dl.playstation.net
+DOMAIN-SUFFIX,image.api.playstation.com
 
 # Steam
 DOMAIN,csgo.wmsj.cn
