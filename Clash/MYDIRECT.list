@@ -22,6 +22,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 
 # Ubisoft
 DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft.com
 
 # Playstation
 DOMAIN-SUFFIX,dl.playstation.net
