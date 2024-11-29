@@ -21,8 +21,7 @@ DOMAIN-KEYWORD,galaxyappstore
 IP-CIDR,219.146.1.66/32,no-resolve
 
 # Ubisoft
-DOMAIN-SUFFIX,ubi.com
-DOMAIN-KEYWORD,ubisoft
+DOMAIN-SUFFIX,ubisoft.com
 
 # Playstation
 DOMAIN-SUFFIX,dl.playstation.net
