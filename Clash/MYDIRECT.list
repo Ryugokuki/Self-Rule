@@ -20,7 +20,7 @@ DOMAIN-KEYWORD,galaxyappstore
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
-# 育碧
+# Ubisoft
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-KEYWORD,ubisoft
 
