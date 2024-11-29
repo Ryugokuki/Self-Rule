@@ -16,6 +16,7 @@ DOMAIN,tracker.hdkyl.in
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,hunan-bank
 DOMAIN-KEYWORD,galaxyappstore
+DOMAIN-KEYWORD,ubisoft
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
