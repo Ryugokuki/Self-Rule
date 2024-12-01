@@ -26,10 +26,10 @@ DOMAIN-SUFFIX,ubisoft.com
 
 # Playstation
 DOMAIN-SUFFIX,dl.playstation.net
-DOMAIN-SUFFIX,image.api.playstation.com
 
 # Steam
-DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steampowered.com
 
 # 360
 DOMAIN-SUFFIX,360.com
