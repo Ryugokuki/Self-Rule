@@ -1,7 +1,13 @@
 # 代理补充列表
 
+# 域名
+DOMAIN,u2.dmhy.org
+DOMAIN,hdfans.org
+DOMAIN,www.hdkyl.in
+DOMAIN,monikadesign.uk
+
 # 域名后缀匹配
-#DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,moeshare.cc
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,
