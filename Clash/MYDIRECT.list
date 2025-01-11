@@ -19,17 +19,6 @@ DOMAIN-KEYWORD,hunan-bank
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
-# Ubisoft
-DOMAIN-SUFFIX,ubi.com
-DOMAIN-SUFFIX,ubisoft.com
-
-# Playstation
-DOMAIN-SUFFIX,dl.playstation.net
-
-# Steam
-DOMAIN-SUFFIX,steamserver.net
-#DOMAIN-SUFFIX,steampowered.com
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
