@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,cmvideo.cn
 
 # 域名匹配
 DOMAIN,v4.plex.tv
@@ -15,6 +16,7 @@ DOMAIN,tracker.hdkyl.in
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,hunan-bank
+DOMAIN-KEYWORD,bestlive
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
