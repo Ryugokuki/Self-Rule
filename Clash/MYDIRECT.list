@@ -9,10 +9,13 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN,v4.plex.tv
 DOMAIN,daydream.dmhy.best
 DOMAIN,anime-no-index.com
+DOMAIN,daisuki.monikadesign.uk
+DOMAIN,daikirai.monikadesign.uk
 DOMAIN,www.hdkylin.top
 DOMAIN,tracker.hdkyl.in
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,hunan-bank
 DOMAIN-KEYWORD,sptv
