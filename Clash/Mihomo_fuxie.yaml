@@ -277,7 +277,7 @@ rule-providers:
     interval: 86400
     format: mrs
     type: http
-  geolocation-!cn_domain:
+  geolocation-!cn:
     url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.mrs
     behavior: domain
     interval: 86400
