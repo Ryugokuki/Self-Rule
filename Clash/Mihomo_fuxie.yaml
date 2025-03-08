@@ -322,7 +322,7 @@ rules:
   - "RULE-SET,ubisoft_domain,游戏平台"
   - "RULE-SET,dmm_domain,日本节点"
   - "RULE-SET,apple_domain,苹果服务"
-  - "RULE-SET,openai_domain,人工智能"
+  - "RULE-SET,openai_classical,人工智能"
   - "RULE-SET,youtube_domain,油管视频"
   - "RULE-SET,google_domain,谷歌服务"
   - "RULE-SET,onedrive_domain,微软服务"
