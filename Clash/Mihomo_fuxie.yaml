@@ -1,3 +1,8 @@
+proxies:
+- name: "🟢 直连"
+  type: direct
+  udp: true
+
 proxy-groups:
   - name: 节点选择
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
@@ -10,7 +15,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 手动切换
     icon: https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/select.png
     include-all: true
@@ -33,7 +38,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 人工智能
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bot.png
     type: select
@@ -46,7 +51,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 油管视频
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
@@ -59,7 +64,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 奈飞视频
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     type: select
@@ -72,7 +77,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 巴哈姆特
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bahamut.png
     type: select
@@ -81,7 +86,7 @@ proxy-groups:
       - 台湾节点
       - 节点选择
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 谷歌服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
     type: select
@@ -93,7 +98,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 微软服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Microsoft.png
     type: select
@@ -105,7 +110,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 苹果服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
     type: select
@@ -117,7 +122,7 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 游戏平台
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Game.png
     type: select
@@ -129,14 +134,14 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 全球直连
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Direct.png
     type: select
     proxies:
       - 节点选择
       - 自动选择
-      - DIRECT
+      - 🟢 直连
   - name: 漏网之鱼
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Final.png
     type: select
@@ -149,7 +154,7 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 手动切换
-      - DIRECT
+      - 🟢 直连
   - name: 香港节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
     include-all: true
