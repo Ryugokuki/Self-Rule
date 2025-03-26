@@ -192,18 +192,6 @@ rule-providers:
     interval: 86400
     format: mrs
     type: http
-  playstation_domain:
-    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/playstation.mrs
-    behavior: domain
-    interval: 86400
-    format: mrs
-    type: http
-  ubisoft_domain:
-    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/ubisoft@cn.mrs
-    behavior: domain
-    interval: 86400
-    format: mrs
-    type: http
   apple_domain:
     url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple@cn.mrs
     behavior: domain
@@ -305,8 +293,6 @@ rules:
   - "RULE-SET,private_domain,全球直连"
   - "RULE-SET,mydirect_classical,全球直连"
   - "RULE-SET,steamcn_domain,游戏平台"
-  - "RULE-SET,playstation_domain,游戏平台"
-  - "RULE-SET,ubisoft_domain,游戏平台"
   - "RULE-SET,dmm_domain,日本节点"
   - "RULE-SET,apple_domain,苹果服务"
   - "RULE-SET,openai_classical,人工智能"
