@@ -176,7 +176,7 @@ rule-providers:
     type: http
   game_download_domain:
     url: https://ruleset.skk.moe/Clash/domainset/game-download.txt
-    behavior: classical
+    behavior: domain
     interval: 86400
     format: text
     type: http
