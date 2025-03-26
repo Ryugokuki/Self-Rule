@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,dl.playstation.net
 
 # 域名匹配
 DOMAIN,v4.plex.tv
@@ -14,6 +15,7 @@ DOMAIN,daikirai.monikadesign.uk
 DOMAIN,www.hdkylin.top
 DOMAIN,tracker.hdkyl.in
 DOMAIN,rsks.onlydwy.com
+DOMAIN,dl.playstation.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,tracker
