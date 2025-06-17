@@ -25,6 +25,7 @@ DOMAIN-KEYWORD,sptv
 DOMAIN-KEYWORD,cctv
 DOMAIN-KEYWORD,onlydwy
 DOMAIN-KEYWORD,sihaigongkao
+DOMAIN-KEYWORD,sksight
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
