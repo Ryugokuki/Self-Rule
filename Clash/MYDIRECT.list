@@ -25,6 +25,8 @@ IP-CIDR,219.146.1.66/32,no-resolve
 
 # PT关键字匹配
 DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,manfuz
+DOMAIN-KEYWORD,halomt
 
 # PT域名匹配
 DOMAIN,hdfans.org
