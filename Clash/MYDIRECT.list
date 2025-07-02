@@ -8,14 +8,7 @@ DOMAIN-SUFFIX,dl.playstation.net
 
 # 域名匹配
 DOMAIN,v4.plex.tv
-DOMAIN,daydream.dmhy.best
-DOMAIN,anime-no-index.com
-DOMAIN,daisuki.monikadesign.uk
-DOMAIN,daikirai.monikadesign.uk
-DOMAIN,www.hdkylin.top
-DOMAIN,tracker.hdkyl.in
 DOMAIN,dl.playstation.net
-DOMAIN,hdfans.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,tracker
@@ -29,6 +22,18 @@ DOMAIN-KEYWORD,sksight
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+
+# PT关键字匹配
+DOMAIN-KEYWORD,m-team
+
+# PT域名匹配
+DOMAIN,hdfans.org
+DOMAIN,daydream.dmhy.best
+DOMAIN,anime-no-index.com
+DOMAIN,daisuki.monikadesign.uk
+DOMAIN,daikirai.monikadesign.uk
+DOMAIN,www.hdkylin.top
+DOMAIN,tracker.hdkyl.in
 
 # 360
 DOMAIN-SUFFIX,360.com
