@@ -25,6 +25,7 @@ DOMAIN-KEYWORD,transmission
 IP-CIDR,219.146.1.66/32,no-resolve
 
 # PT关键字匹配
+DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,manfuz
 DOMAIN-KEYWORD,halomt
