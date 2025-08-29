@@ -12,7 +12,7 @@ DOMAIN,v4.plex.tv
 DOMAIN,dl.playstation.net
 
 # 域名关键字匹配
-#DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,hunan-bank
 DOMAIN-KEYWORD,sptv
